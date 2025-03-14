@@ -1,0 +1,12 @@
+
+
+# Laravel
+/vendor
+/node_modules
+/.env
+/storage
+/bootstrap/cache
+
+# React
+**/node_modules
+**/build
